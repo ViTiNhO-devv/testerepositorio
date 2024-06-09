@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#points-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#points-table th, #points-table td {
+    border: 1px solid #000000;
+    padding: 10px;
+    text-align: left;
+}
+
+#points-table th {
+    background-color: yellow;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+.containerr {
+    width: 80%;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+h1, h2 {
+    color: #333;
+}
+p {
+    line-height: 1.6;
+}

@@ -1,0 +1,81 @@
+/* NavBar-Menu */
+.form-group {
+  width: 850px;
+  padding-left: 500px;
+}
+
+#cabecalho {
+  background-color: #ffc107; /* Fundo amarelo */
+}
+
+.header {
+  background: #ffc107; /* Fundo amarelo */
+  height: 100%;
+}
+
+.navbar {
+  background-color: #ffc107; /* Fundo amarelo */
+}
+
+.navbar-text .navbar-top {
+  font-size: 14px;
+  font-weight: bold;
+  color: #000; /* Letras pretas */
+}
+
+.navbar-brand img {
+  margin-left: 5px;
+}
+
+.navbar-nav .nav-link .nav-item {
+  font-size: 14px;
+  font-weight: bold;
+  color: #000; /* Letras pretas */
+}
+
+.navbar-nav .nav-link:hover {
+  color: #52e1B6;
+}
+
+.navbar-toggler {
+  color: #000; /* Letras pretas */
+  border-color: #000; /* Letras pretas */
+  margin-inline-end: 30px;
+  margin-right: 10px;
+}
+
+.form-text .text-white {
+  font-weight: bold;
+  height: 100%;
+  text-align: right;
+}
+
+/* Rodapé */
+footer {
+  background-color: #ffc107; /* Fundo amarelo */
+  color: #000; /* Letras pretas */
+  padding-top: 30px;
+  padding-bottom: 20px;
+  margin-top: 50px;
+}
+
+.footer a .nav-item mb-2 {
+  background-color: #ffc107; /* Fundo amarelo */
+  color: #000; /* Letras pretas */
+  font-weight: bold;
+}
+
+.footer a:hover {
+  background-color: #ffc107; /* Fundo amarelo */
+  color: #52e1b6;
+}
+
+.footer h5 {
+  background-color: #ffc107; /* Fundo amarelo */
+  margin-bottom: 15px;
+}
+
+.footer p {
+  background-color: #ffc107; /* Fundo amarelo */
+  margin-bottom: 10px;
+}
